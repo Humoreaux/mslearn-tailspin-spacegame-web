@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/BTSSIOSTPAUL-moreaux/Space%20Game%20-%20web%20Delivery%20plans/_apis/build/status%2FHumoreaux.mslearn-tailspin-spacegame-web%20(1)?branchName=main)](https://dev.azure.com/BTSSIOSTPAUL-moreaux/Space%20Game%20-%20web%20Delivery%20plans/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
